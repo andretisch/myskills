@@ -8,9 +8,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-andretisch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andretisch)
 [![Email](https://img.shields.io/badge/Email-a%40aphl.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a@aphl.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@redeyex-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/redeyex)
+[![MAX](https://img.shields.io/badge/MAX-Написать-5B4EE5?style=for-the-badge)](#контакты)
 [![Location](https://img.shields.io/badge/Липецк-Россия-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#контакты)
-
-**Удалённая работа** · готов к редким командировкам
 
 </div>
 
@@ -151,10 +151,17 @@ WordPress · PHP · HTML/CSS/JS · Cursor
 | | |
 |---|---|
 | **Email** | [a@aphl.ru](mailto:a@aphl.ru) |
-| **Телефон** | +7 (904) 683-97-73 |
+| **Telegram** | [@redeyex](https://t.me/redeyex) |
 | **GitHub** | [github.com/andretisch](https://github.com/andretisch) |
 | **Локация** | Липецк, Россия |
-| **Формат** | Удалённо, полная / частичная / проектная занятость |
+
+<div align="center">
+
+**MAX** — отсканируйте QR-код, чтобы написать в мессенджер
+
+<img src="assets/max-profile.png" alt="QR-код профиля MAX — Андрей Тишкин" width="220">
+
+</div>
 
 ---
 
