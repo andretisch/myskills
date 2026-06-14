@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-andretisch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andretisch)
 [![Email](https://img.shields.io/badge/Email-a%40aphl.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a@aphl.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@redeyex-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/redeyex)
-[![MAX](https://img.shields.io/badge/MAX-Написать-5B4EE5?style=for-the-badge)](#контакты)
+[![MAX](https://img.shields.io/badge/MAX-QR--код-5B4EE5?style=for-the-badge)](#max)
 [![Location](https://img.shields.io/badge/Липецк-Россия-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#контакты)
 
 </div>
@@ -155,9 +155,12 @@ WordPress · PHP · HTML/CSS/JS · Cursor
 | **GitHub** | [github.com/andretisch](https://github.com/andretisch) |
 | **Локация** | Липецк, Россия |
 
-<div align="center">
+<div align="center" id="max">
 
-**MAX** — отсканируйте QR-код, чтобы написать в мессенджер
+### MAX
+
+В мессенджере MAX нет публичной текстовой ссылки — только QR-код.  
+Отсканируйте его камерой телефона, чтобы написать.
 
 <img src="assets/max-profile.png" alt="QR-код профиля MAX — Андрей Тишкин" width="220">
 
