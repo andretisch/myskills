@@ -6,7 +6,7 @@
 
 Липецк, удалённо или гибрид, командировки возможны
 
-**Резюме под ML Engineer (Edge Inference):** [PDF «Тишкин Андрей»](Тишкин%20Андрей.pdf) · [Markdown](Резюме_ML_Engineer_Edge_Inference_Тишкин.md) · [Сопроводительное №292](Сопроводительное_ML_Engineer_Edge_Inference_292.md)
+**Резюме под ML Engineer (Edge Inference):** [Word — резюме](Резюме_ML_Engineer_Edge_Inference_Тишкин.docx) · [Word — сопроводительное](Сопроводительное_ML_Engineer_Edge_Inference_292.docx) · [Markdown](Резюме_ML_Engineer_Edge_Inference_Тишкин.md) · [PDF «Тишкин Андрей»](Тишкин%20Андрей.pdf)
 
 **Корпоративное резюме (PDF, 22.11.2026):** [Инженер прикладного ИИ / AI Engineer](Резюме%20Инженер%20прикладного%20ИИ%20корпоративные%20системы%20AI%20Engineer%20Андрей%20Владимирович%20Тишкин%20от%2022-11-2026%2013-23.pdf)
 
